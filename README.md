@@ -1,1 +1,1 @@
-# Zadanie-9.1-Tworzymy-funkcje
+# JavaScript - prosta funkcja na pole trójkąta
